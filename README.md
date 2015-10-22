@@ -3,7 +3,7 @@
 ### About
 
 Udacity Full Stack Web Development project: Movie Trailer Website.
-This project provides a server-side script to generate a website of movie trailers from a CSV data file.
+This project provides a server-side script to generate a website of movie trailers from data.csv.
 
 ### Quick Start
 
