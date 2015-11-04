@@ -9,5 +9,5 @@ This project provides a server-side script to generate a website of movie traile
 
 To run the script, clone this repository directory and run `media.py`. Use 'cd' command to the current repository directory, run in terminal by 'python3 media.py'. You could also view the page by opening `fresh_tomatoes.html`.
 
-![Alt text](https://github.com/hailiangwangutd/udacity_movie_trailers_neal/blob/master/screenshot1.png "Demo 1")
-![Alt text](https://github.com/hailiangwangutd/udacity_movie_trailers_neal/blob/master/screenshot2.png "Demo 2")
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p1-movie-trailers/blob/master/screenshot1.png "Demo 1")
+![Alt text](https://github.com/hailiangwangutd/udacity-fullstack-p1-movie-trailers/blob/master/screenshot2.png "Demo 2")
